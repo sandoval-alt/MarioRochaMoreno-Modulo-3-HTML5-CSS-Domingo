@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-/* Estilo Men˙ */
+/* Estilo Men√∫ */
 html, body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.7em;
@@ -20,7 +20,7 @@ p {
   margin: 10px 0;
 }
 /* Clases General */
-/* container mantendr· el contenido centrado y con un m·ximo de ancho */
+/* container mantendr√° el contenido centrado y con un m√°ximo de ancho */
 .container {
   margin: auto;
   max-width: 1100px;
@@ -142,7 +142,7 @@ p {
 #welcome .container {
   overflow: hidden !important;
 }
-/* InformaciÛn Principal */
+/* Informaci√≥n Principal */
 #home-info {
   height: 350px;
 }
@@ -171,7 +171,7 @@ p {
 #home-info .info-content p {
   padding-bottom: 30px;
 }
-/* InformaciÛn Secundaria */
+/* Informaci√≥n Secundaria */
 .box {
   float: left;
   width: 33.3%;
@@ -246,7 +246,7 @@ p {
   outline: none;
   border-color: #5BBF21;
 }
-/* Pie de p·gina */
+/* Pie de p√°gina */
 #main-footer {
   text-align: center;
   background: #468d5c;
