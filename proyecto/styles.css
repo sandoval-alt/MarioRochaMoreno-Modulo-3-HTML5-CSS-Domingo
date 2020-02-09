@@ -83,7 +83,7 @@ p {
  /* 1- Navbar */
  #navbar {
    background: #215b33;
-   color: #fff;
+   color: #A22105;
    overflow: auto;
  }
 #navbar a {
@@ -109,15 +109,15 @@ p {
 #navbar ul li a.current {
   border-color: #a15151;
   background: #a7e4fa;
-  color: #aaaa11;
+  color: #A22105;
 }
 /* Bienvenida */
 #welcome {
-  background: url('/imagenes/logo.png') no-repeat center center/cover;
+  background: url('../imagenes/logo.png') no-repeat center center/cover;
   height: 600px;
 }
 #welcome1 {
-  background: url('/imagenes/fondo.jpg') no-repeat center center/cover;
+  background: url('../imagenes/fondo.jpg') no-repeat center center/cover;
   width: 100%;
   height: 400px;
 }
@@ -201,7 +201,7 @@ p {
 /* Testimonos */
 #testimonials {
   height: 600px;
-  background: url('/imagenes/rector.jpg') no-repeat center center/cover;
+  background: url('../imagenes/rector.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
@@ -249,7 +249,7 @@ p {
 /* Pie de página */
 #main-footer {
   text-align: center;
-  background: #468d5c;
+  background: #A22105;
   color: #fff;
   padding: 20px;
 }
